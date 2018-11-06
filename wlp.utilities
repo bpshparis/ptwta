@@ -1,0 +1,175 @@
+Establishing a connection to the configured repositories ...
+This process might take several minutes to complete.
+
+Successfully connected to all configured repositories.
+
+Searching assets. This process might take several minutes to complete.
+
+addon : baseBundle : Base Bundle
+addon : javaee7Bundle : Java EE 7 Full Platform Bundle
+addon : libertyCoreBundle : Liberty Core Bundle
+addon : ndControllerBundle : ND Controller Bundle
+addon : ndMemberBundle : ND Member Bundle
+addon : webProfile7Bundle : Java EE 7 Web Profile Bundle
+feature : adminCenter-1.0 : Admin Center
+feature : apiDiscovery-1.0 : API Discovery 1.0
+feature : apmDataCollector-7.3 : IBM Cloud APM Data Collector 7.3
+feature : apmDataCollector-7.4 : IBM Cloud APM Data Collector 7.4
+feature : appClientSupport-1.0 : Application Client Support for Server
+feature : appSecurity-1.0 : Application Security 1.0
+feature : appSecurity-2.0 : Application Security 2.0
+feature : appSecurityClient-1.0 : Application Security for Client 1.0
+feature : batch-1.0 : Batch API 1.0
+feature : batchManagement-1.0 : Batch Management
+feature : beanValidation-1.0 : Bean Validation 1.0
+feature : beanValidation-1.1 : Bean Validation 1.1
+feature : bells-1.0 : Basic Extensions using Liberty Libraries
+feature : bluemixUtility-1.0 : Bluemix Utilities 1.0
+feature : blueprint-1.0 : OSGi Blueprint
+feature : cdi-1.0 : Contexts and Dependency Injection 1.0
+feature : cdi-1.2 : Contexts and Dependency Injection 1.2
+feature : cloudant-1.0 : Cloudant Integration 1.0
+feature : clusterMember-1.0 : Static Cluster Member
+feature : collectiveController-1.0 : Collective Controller
+feature : collectiveMember-1.0 : Collective Member
+feature : concurrent-1.0 : Concurrency Utilities for Java EE 1.0
+feature : constrainedDelegation-1.0 : Kerberos Constrained Delegation for SPNEGO
+feature : couchdb-1.0 : CouchDB Integration 1.0
+feature : distributedMap-1.0 : Distributed Map interface for Dynamic Caching
+feature : dynamicRouting-1.0 : Dynamic Routing
+feature : ejb-3.2 : Enterprise JavaBeans 3.2
+feature : ejbHome-3.2 : Enterprise JavaBeans Home Interfaces 3.2
+feature : ejbLite-3.1 : Enterprise JavaBeans Lite 3.1
+feature : ejbLite-3.2 : Enterprise JavaBeans Lite 3.2
+feature : ejbPersistentTimer-3.2 : Enterprise JavaBeans Persistent Timers 3.2
+feature : ejbRemote-3.2 : Enterprise JavaBeans Remote 3.2
+feature : el-3.0 : Expression Language 3.0
+feature : eventLogging-1.0 : Event Logging
+feature : federatedRegistry-1.0 : Federated User Registry
+feature : healthAnalyzer-1.0 : Health Analyzer
+feature : healthManager-1.0 : Health Manager
+feature : httpWhiteboard-1.0 : OSGi Http Whiteboard
+feature : j2eeManagement-1.1 : J2EE Management 1.1
+feature : jacc-1.5 : Java Authorization Contract for Containers 1.5
+feature : jaspic-1.1 : Java Authentication SPI for Containers 1.1
+feature : javaMail-1.5 : JavaMail 1.5
+feature : javaee-7.0 : Java EE Full Platform 7.0
+feature : javaeeClient-7.0 : Java EE V7 Application Client
+feature : jaxb-2.2 : Java XML Bindings 2.2
+feature : jaxrs-1.1 : Java RESTful Services 1.1
+feature : jaxrs-2.0 : Java RESTful Services 2.0
+feature : jaxrsClient-2.0 : Java RESTful Services Client 2.0
+feature : jaxws-2.2 : Java Web Services 2.2
+feature : jca-1.6 : Java Connector Architecture 1.6
+feature : jca-1.7 : Java Connector Architecture 1.7
+feature : jcaInboundSecurity-1.0 : Java Connector Architecture 1.0 Security Inflow
+feature : jcaRemoteEci-1.0 : IBM CICS remote development feature for Java
+feature : jdbc-4.0 : Java Database Connectivity 4.0
+feature : jdbc-4.1 : Java Database Connectivity 4.1
+feature : jms-1.1 : Java Message Service 1.1
+feature : jms-2.0 : Java Message Service 2.0
+feature : jmsMdb-3.1 : JMS Message-Driven Beans 3.1
+feature : jmsMdb-3.2 : JMS Message-Driven Beans 3.2
+feature : jndi-1.0 : Java Naming and Directory Interface
+feature : jpa-2.0 : Java Persistence API 2.0
+feature : jpa-2.1 : Java Persistence API 2.1
+feature : jsf-2.0 : JavaServer Faces 2.0
+feature : jsf-2.2 : JavaServer Faces 2.2
+feature : jsfPortletBridge-1.0 : JSF2.2 Portlet Bridge (Beta)
+feature : json-1.0 : JavaScript Object Notation for Java
+feature : jsonp-1.0 : JavaScript Object Notation Processing
+feature : jsp-2.2 : JavaServer Pages 2.2
+feature : jsp-2.3 : JavaServer Pages 2.3
+feature : ldapRegistry-3.0 : LDAP User Registry
+feature : localConnector-1.0 : JMX Local Connector
+feature : logstashCollector-1.0 : Logstash Collector 1.0
+feature : managedBeans-1.0 : Java EE Managed Bean 1.0
+feature : mdb-3.1 : Message-Driven Beans 3.1
+feature : mdb-3.2 : Message-Driven Beans 3.2
+feature : mediaServerControl-1.0 : Media Server Control
+feature : microProfile-1.0 : Micro Profile 1.0
+feature : mongodb-2.0 : MongoDB Integration 2.0
+feature : monitor-1.0 : Performance Monitoring
+feature : oauth-2.0 : OAuth
+feature : openid-2.0 : OpenID
+feature : openidConnectClient-1.0 : OpenID Connect Client
+feature : openidConnectServer-1.0 : OpenID Connect Provider
+feature : osgi.jpa-1.0 : OSGi Java Persistence API
+feature : osgiAppConsole-1.0 : OSGi Applications Console
+feature : osgiAppIntegration-1.0 : OSGi Application Integration
+feature : osgiBundle-1.0 : OSGi Bundle
+feature : osgiConsole-1.0 : OSGi Debug Console
+feature : passwordUtilities-1.0 : Password Utilities
+feature : portlet-2.1 : Portlet Container 2.1
+feature : portlet-2.1 : Portlet Container 2.1
+feature : portletserving-2.1 : Portlet Serving 2.1
+feature : portletserving-2.1 : Portlet Serving 2.1
+feature : requestTiming-1.0 : Request Timing
+feature : restConnector-1.0 : JMX REST Connector 1.0
+feature : restConnector-2.0 : JMX REST Connector 2.0
+feature : rtcomm-1.0 : Real-Time Communications
+feature : rtcommGateway-1.0 : WebRTC Rtcomm Gateway
+feature : samlWeb-2.0 : SAML web single sign-on version 2.0
+feature : scalingController-1.0 : Scaling Controller
+feature : scalingMember-1.0 : Scaling Member
+feature : scim-1.0 : System for Cross-domain Identity Management
+feature : serverStatus-1.0 : Job Manager Integration
+feature : servlet-3.0 : Java Servlets 3.0
+feature : servlet-3.1 : Java Servlets 3.1
+feature : sessionDatabase-1.0 : Database Session Persistence
+feature : sipServlet-1.1 : SIP Servlet
+feature : spnego-1.0 : Simple and Protected GSSAPI Negotiation Mechanism
+feature : ssl-1.0 : Secure Socket Layer
+feature : timedOperations-1.0 : Timed Operations
+feature : wab-1.0 : OSGi Web Application Bundles
+feature : wasJmsClient-1.1 : JMS 1.1 Client for Message Server
+feature : wasJmsClient-2.0 : JMS 2.0 Client for Message Server
+feature : wasJmsSecurity-1.0 : Message Server Security 1.0
+feature : wasJmsServer-1.0 : Message Server 1.0
+feature : webCache-1.0 : Web Response Cache
+feature : webCacheMonitor-1.0 : Web Cache Monitor
+feature : webProfile-6.0 : Java EE Web Profile 6.0
+feature : webProfile-7.0 : Java EE Web Profile 7.0
+feature : websocket-1.0 : Java WebSocket 1.0
+feature : websocket-1.1 : Java WebSocket 1.1
+feature : wmqJmsClient-1.1 : JMS 1.1 Client for IBM MQ
+feature : wmqJmsClient-2.0 : JMS 2.0 Client for IBM MQ
+feature : wsAtomicTransaction-1.2 : WS-AT Service
+feature : wsSecurity-1.1 : Web Service Security
+feature : wsSecuritySaml-1.1 : WSSecurity SAML
+sample : NonPersistentTimerSample : Asynchronous Method and Nonpersistent Timer Sample
+sample : cdiSample : Contexts and Dependency Injection (CDI) Sample
+sample : CustomUserRegistrySample : Custom User Registry
+sample : JAXWSEJBSample : EJB Web Services Sample
+sample : OnlinePollingSample : EJB in WAR, CDI and JPA Sample: Online Polling
+sample : EJBSample : Enterprise Java Beans (EJB) Sample
+sample : jpaSample : Java Persistence API (JPA) Sample
+sample : JsonPSample : JsonP (javax.json) Sample
+sample : JMSSampleClient : Liberty Java Message Service (JMS) Client Sample
+sample : JMSSampleServer : Liberty Java Message Service (JMS) Server Sample
+sample : mongoDBReplicationSample : MongoDB Replication Sample
+sample : mongoDBSample : MongoDB Sample
+sample : mongoDBTestClientSample : MongoDB Test Client Sample
+sample : SecureEJBSample : Secure EJB Sample
+sample : JDBCSample : Servlet JDBC Sample
+sample : ServletSample : Servlet Sample
+sample : JAXWSWebSample : Web Services Sample
+sample : WebsocketSample : WebSocket Sample
+sample : WMQClientSample : WebSphere MQ JMS Messaging on Liberty
+opensource : cassandraDBSample : Cassandra Sample
+opensource : HibernateSample : Hibernate v3.6.9 Integration
+opensource : ICEfacesSample : ICEfaces v3.2 Integration
+opensource : eclipselinkJPASample : Java Persistence API (JPA) EclipseLink Sample
+opensource : hibernateJPASample : Java Persistence API (JPA) Hibernate Sample
+opensource : LiftSample : Lift v2.0 Integration
+opensource : MojarraSample : Mojarra v2.1.20 Integration
+opensource : PrimeFacesSample : PrimeFaces v3.5 Integration
+opensource : RichFacesSample : RichFaces v4.3.1 Integration
+opensource : ScalaSample : Scala v2.10.1 Integration
+opensource : SpringSample : Spring/SpringMVC v3.2.1 Integration
+opensource : SpringEclipseLinkSample : Spring/SpringMVC/EclipseLink Integration
+opensource : StripesSample : Stripes v1.5.7 Integration
+opensource : Struts1Sample : Struts v1.3.8 Integration
+opensource : Struts2Sample : Struts v2.3.8 Integration
+opensource : TapestrySample : Tapestry v5.3.6 Integration
+opensource : WicketSample : Wicket v6.6 Integration
